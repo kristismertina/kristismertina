@@ -1,6 +1,8 @@
 ### hello ###
-##
-#
+## welcom on my profile ##
+
+
+>>> Добрый день
 
 - 👋 Hi, I’m @kristismertina
 - 👀 I’m interested in ...
